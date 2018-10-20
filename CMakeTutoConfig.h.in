@@ -1,0 +1,7 @@
+//
+// Created by David Villeneuve on 2018-10-20.
+//
+
+#define CMakeTuto_VERSION_MAJOR @CMakeTuto_VERSION_Major@
+#define CMakeTuto_VERSION_MINOR @CMakeTuto_VERSION_Minor@
+#cmakedefine USE_MYMATH
